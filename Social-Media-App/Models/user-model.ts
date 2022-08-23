@@ -18,11 +18,9 @@ export class User {
 
 // Intl.DateTimeFormat("en-GB").format(dob);
 
-let user1 = new User("Rose", "Hadley", "rose.hadley@audacia.com", new Date(1998,4,6))
-user1.information()
-console.log(user1)
-// user1.dob = new Date (2000,11,31)
-
+// let user1 = new User("Rose", "Hadley", "rose.hadley@audacia.com", new Date(1998,4,6))
+// user1.information()
 // console.log(user1)
 
+// user1.dob = new Date (2000,11,31)
 // firstName: string, surname: string, email: string, dob: Date
